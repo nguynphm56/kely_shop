@@ -37,7 +37,7 @@ h6 {
 .btn-back{
     width: fit-content;
     border-radius: 30px;
-    background-color: #5555AF;
+    background-color: #5454AE;
     border: none;
     color: #FFF;
     display: inline-block;
@@ -47,7 +47,7 @@ h6 {
     text-align: center;
 }
 .btn-back:hover{
-    background-color: #5555AF;
+    background-color: #5454AE;
     text-decoration: none;
     color: #FFF;
     opacity: 0.8;
@@ -67,7 +67,7 @@ a#scrollUp {
     bottom: 0px;
     right: 10px;
     padding: 5px 10px;
-    background: #5555AF;
+    background: #5454AE;
     color: #FFF;
     -webkit-animation: bounce 2s ease infinite;
     animation: bounce 2s ease infinite;
@@ -83,7 +83,7 @@ a#scrollUp i {
 **************************/
 
 .header_top {
-    background-color: #5555AF;
+    background-color: #5454AE;
 }
 .nav-header{
     display: flex;
@@ -178,14 +178,14 @@ a#scrollUp i {
 }
 
 .usa:hover {
-    background: #5555AF;
+    background: #5454AE;
     color: #fff;
-    border-color: #5555AF;
+    border-color: #5454AE;
 }
 
 .usa:active,
 .usa.active {
-    background: none repeat scroll 0 0 #5555AF;
+    background: none repeat scroll 0 0 #5454AE;
     -webkit-box-shadow: inherit;
     box-shadow: inherit;
     outline: 0 none;
@@ -199,7 +199,7 @@ a#scrollUp i {
 
 .dropdown-menu li a:hover,
 .dropdown-menu li a:focus {
-    background-color: #5555AF;
+    background-color: #5454AE;
     color: #FFFFFF;
     font-family: 'Roboto', sans-serif;
     text-decoration: none;
@@ -225,7 +225,7 @@ a#scrollUp i {
 }
 .shop-menu ul li a {
     background: #FFFFFF;
-    color: #5555AF;
+    color: #5454AE;
     font-family: 'Roboto', sans-serif;
     font-size: 18px;
     font-weight: 400;
@@ -238,7 +238,7 @@ a#scrollUp i {
 
 
 .shop-menu ul li a:hover {
-    color: #5555AF;
+    color: #5454AE;
     opacity: 0.7;
 }
 
@@ -261,7 +261,7 @@ a#scrollUp i {
 }
 
 .mainmenu ul li a {
-    color: #5555AF;
+    color: #5454AE;
     font-family: 'Roboto', sans-serif;
     font-size: 18px;
     font-weight: 400;
@@ -273,12 +273,12 @@ a#scrollUp i {
 .mainmenu ul li a.active,
 .shop-menu ul li a.active {
     background: none;
-    color: #5555AF;
+    color: #5454AE;
 }
 
 .search_box input {
     background: #E7E6F2;
-    color: #5555AF;
+    color: #5454AE;
     border: none;
     font-family: 'roboto';
     font-size: 14px;
@@ -307,7 +307,7 @@ a#scrollUp i {
     right: 10px;
     transform: translateY(-50%);
     border: none;
-    color: #5555AF;
+    color: #5454AE;
     background-color: #E7E6F2;
     font-size: 18px;
 }
@@ -343,7 +343,7 @@ ul.sub-menu {
 }
 
 .dropdown ul.sub-menu li .active {
-    color: #5555AF;
+    color: #5454AE;
     padding-left: 0;
 }
 
@@ -360,7 +360,7 @@ ul.sub-menu {
 }
 
 .navbar-nav li ul.sub-menu li a:hover {
-    color: #5555AF;
+    color: #5454AE;
 }
 
 .fa-angle-down {
@@ -406,7 +406,7 @@ ul.sub-menu {
 }
 
 .companyinfo h2 span {
-    color: #5555AF;
+    color: #5454AE;
 }
 
 .companyinfo p {
@@ -444,7 +444,7 @@ ul.sub-menu {
     top: 0;
     width: 100%;
     height: 61px;
-    background: #5555AF;
+    background: #5454AE;
     border-radius: 3px;
     color: #FFF;
     font-size: 20px;
@@ -512,7 +512,7 @@ ul.sub-menu {
 }
 
 .single-widget h2 {
-    color: #5555AF;
+    color: #5454AE;
     font-family: 'Roboto', sans-serif;
     font-size: 16px;
     font-weight: 500;
@@ -538,7 +538,7 @@ ul.sub-menu {
 
 .single-widget ul li a:hover {
     background: none;
-    color: #5555AF;
+    color: #5454AE;
 }
 
 .searchform input {
@@ -553,7 +553,7 @@ ul.sub-menu {
 }
 
 .searchform button {
-    background: #5555AF;
+    background: #5454AE;
     border: medium none;
     border-radius: 0;
     margin-left: -5px;
@@ -568,7 +568,7 @@ ul.sub-menu {
 
 .searchform button:hover,
 .searchform button:focus {
-    background-color: #5555AF;
+    background-color: #5454AE;
 }
 
 .searchform p {
@@ -592,7 +592,7 @@ ul.sub-menu {
 }
 
 .footer-bottom p span a {
-    color: #5555AF;
+    color: #5454AE;
     font-style: italic;
     text-decoration: underline;
 }
@@ -611,7 +611,7 @@ ul.sub-menu {
 }
 
 .carousel-indicators li.active {
-    background: #5555AF;
+    background: #5454AE;
 }
 .carousel-inner{
     height: 360px;
@@ -643,7 +643,7 @@ ul.sub-menu {
 }
 
 .item h1 span {
-    color: #5555AF;
+    color: #5454AE;
 }
 
 .item h2 {
@@ -663,7 +663,7 @@ ul.sub-menu {
 }
 
 .get {
-    background: #5555AF;
+    background: #5454AE;
     border: 0 none;
     border-radius: 0;
     color: #FFFFFF;
@@ -674,14 +674,14 @@ ul.sub-menu {
 }
 
 .item button:hover {
-    background: #5555AF;
+    background: #5454AE;
 }
 
 .control-carousel {
     position: absolute;
     top: 50%;
     font-size: 60px;
-    color: #5555AF;
+    color: #5454AE;
 }
 
 .control-carousel:hover {
@@ -699,7 +699,7 @@ ul.sub-menu {
 
 
 .brands_products h2 {
-    color: #5555AF;
+    color: #5454AE;
     font-family: 'Roboto', sans-serif;
     font-size: 18px;
     font-weight: 700;
@@ -767,7 +767,7 @@ h2.title:before {
 }
 
 .category-products .panel-default .panel-heading .panel-title a {
-    color: #5555AF;
+    color: #5454AE;
     font-family: 'Roboto', sans-serif;
     font-size: 18px;
     font-weight: 500;
@@ -849,7 +849,7 @@ h2.title:before {
 }
 
 .tooltip-inner {
-    background-color: #5555AF;
+    background-color: #5454AE;
     border-radius: 4px;
     color: #FFFFFF;
     max-width: 200px;
@@ -859,7 +859,7 @@ h2.title:before {
 }
 
 .tooltip.top .tooltip-arrow {
-    border-top-color: #5555AF;
+    border-top-color: #5454AE;
     border-width: 5px 5px 0;
     bottom: 0;
     left: 50%;
@@ -978,8 +978,8 @@ h2.title:before {
 }
 
 .add-to-cart {
-    background: #5555AF;
-    border: 1px solid #5555AF;
+    background: #5454AE;
+    border: 1px solid #5454AE;
     border-radius: 30px;
     width: 150px;
     height: 35px;
@@ -994,8 +994,8 @@ h2.title:before {
 
 .add-to-cart:hover {
     opacity: 0.7;
-    background: #5555AF;
-    border: 1px solid #5555AF;
+    background: #5454AE;
+    border: 1px solid #5454AE;
     border-radius: 30px;
     width: 150px;
     height: 35px;
@@ -1032,7 +1032,7 @@ h2.title:before {
 
 .choose ul li a:hover {
     background: none;
-    color: #5555AF;
+    color: #5454AE;
 }
 
 .category-tab {
@@ -1041,7 +1041,7 @@ h2.title:before {
 
 .category-tab ul {
     background: #40403E;
-    border-bottom: 1px solid #5555AF;
+    border-bottom: 1px solid #5454AE;
     list-style: none outside none;
     margin: 0 0 30px;
     padding: 0;
@@ -1059,7 +1059,7 @@ h2.title:before {
 }
 
 .category-tab ul li a:hover {
-    background: #5555AF;
+    background: #5454AE;
     color: #fff;
 }
 
@@ -1070,7 +1070,7 @@ h2.title:before {
     -moz-border-left-colors: none;
     -moz-border-right-colors: none;
     -moz-border-top-colors: none;
-    background-color: #5555AF;
+    background-color: #5454AE;
     border: 0px;
     color: #FFFFFF;
     cursor: default;
@@ -1099,7 +1099,7 @@ h2.title:before {
 }
 
 .recommended-item-control i {
-    background: none repeat scroll 0 0 #5555AF;
+    background: none repeat scroll 0 0 #5454AE;
     color: #FFFFFF;
     font-size: 20px;
     padding: 4px 10px;
@@ -1163,8 +1163,8 @@ h2.title:before {
 .pagination .active span:hover,
 .pagination .active a:focus,
 .pagination .active span:focus {
-    background-color: #5555AF;
-    border-color: #5555AF;
+    background-color: #5454AE;
+    border-color: #5454AE;
     color: #FFFFFF;
     cursor: default;
     z-index: 2;
@@ -1185,7 +1185,7 @@ h2.title:before {
 }
 
 .pagination li a:hover {
-    background: #5555AF;
+    background: #5454AE;
     color: #fff;
 }
 
@@ -1224,7 +1224,7 @@ h2.title:before {
 }
 
 .view-product h3 {
-    background: #5555AF;
+    background: #5454AE;
     bottom: 0;
     color: #FFFFFF;
     font-family: 'Roboto', sans-serif;
@@ -1251,7 +1251,7 @@ h2.title:before {
 }
 
 .item-control i {
-    background: #5555AF;
+    background: #5454AE;
     color: #FFFFFF;
     font-size: 20px;
     padding: 5px 10px;
@@ -1295,7 +1295,7 @@ h2.title:before {
 }
 
 .product-information span span {
-    color: #5555AF;
+    color: #5454AE;
     float: left;
     font-family: 'Roboto', sans-serif;
     font-size: 30px;
@@ -1328,7 +1328,7 @@ h2.title:before {
 }
 
 .cart {
-    background: #5555AF;
+    background: #5454AE;
     border-radius: 30px;
     color: #FFFFFF;
     font-family: 'Roboto', sans-serif;
@@ -1370,13 +1370,13 @@ h2.title:before {
 }
 
 #reviews ul li a i {
-    color: #5555AF;
+    color: #5454AE;
     padding-right: 8px;
 }
 
 #reviews ul li a:hover {
     background: #fff;
-    color: #5555AF;
+    color: #5454AE;
 }
 
 #reviews p {
@@ -1417,7 +1417,7 @@ h2.title:before {
 }
 
 #reviews button {
-    background: #5555AF;
+    background: #5454AE;
     border: 0 none;
     border-radius: 0;
     color: #FFFFFF;
@@ -1460,7 +1460,7 @@ h2.title:before {
 }
 
 .content-404 h2 a {
-    background: #5555AF;
+    background: #5454AE;
     color: #FFFFFF;
     font-family: 'Roboto', sans-serif;
     font-size: 44px;
@@ -1485,14 +1485,14 @@ h2.title:before {
 .signup-form {}
 
 .login-form h2{
-    color: #5555AF;
+    color: #5454AE;
     font-family: 'Roboto', sans-serif;
     font-size: 50px;
     font-weight: 700;
     margin-bottom: 30px;
 }
 .signup-form h2 {
-    color: #5555AF;
+    color: #5454AE;
     font-family: 'Roboto', sans-serif;
     font-size: 30px;
     font-weight: 700;
@@ -1546,7 +1546,7 @@ h2.title:before {
 
 /* .login-form form button,
 .signup-form form button {
-    background: #5555AF;
+    background: #5454AE;
     border: medium none;
     border-radius: 0;
     color: #FFFFFF;
@@ -1555,7 +1555,7 @@ h2.title:before {
     padding: 6px 25px;
 } */
 .btn-login{
-    background-color: #5555AF;
+    background-color: #5454AE;
     border: none;
     color: #FFFFFF;
     border-radius: 30px;
@@ -1574,7 +1574,7 @@ h2.title:before {
 }
 
 .or {
-    background: #5555AF;
+    background: #5454AE;
     border-radius: 40px;
     color: #FFFFFF;
     font-family: 'Roboto', sans-serif;
@@ -1592,7 +1592,7 @@ h2.title:before {
     font-weight: 400;
 }
 .p-login a{
-    color: #5555AF;
+    color: #5454AE;
     font-size: 18px;
     font-weight: 700;
 }
@@ -1615,7 +1615,7 @@ h2.title:before {
 }
 
 .breadcrumbs .breadcrumb li a {
-    background: #5555AF;
+    background: #5454AE;
     color: #FFFFFF;
     padding: 3px 7px;
 }
@@ -1626,7 +1626,7 @@ h2.title:before {
     width: auto;
     border-width: 8px;
     border-style: solid;
-    border-color: transparent transparent transparent #5555AF;
+    border-color: transparent transparent transparent #5454AE;
     position: absolute;
     top: 11px;
     left: 48px;
@@ -1692,7 +1692,7 @@ h2.title:before {
 }
 
 #cart_items .cart_info .cart_total_price {
-    color: #5555AF;
+    color: #5454AE;
     font-size: 24px;
 }
 
@@ -1736,7 +1736,7 @@ h2.title:before {
 }
 
 .cart_delete a:hover {
-    background: #5555AF;
+    background: #5454AE;
 }
 
 .bg h2.title {
@@ -1838,7 +1838,7 @@ textarea {
 
 .update,
 .check_out {
-    background: #5555AF;
+    background: #5454AE;
     border-radius: 0;
     color: #FFFFFF;
     margin-top: 18px;
@@ -1905,7 +1905,7 @@ textarea {
 }
 
 .checkout-options .nav li a {
-    color: #5555AF;
+    color: #5454AE;
     font-size: 18px;
     font-weight: normal;
     padding: 0
@@ -1919,7 +1919,7 @@ textarea {
     margin-right: 10px;
     border-radius: 50%;
     padding: 5px;
-    background: #5555AF;
+    background: #5454AE;
     color: #fff;
     font-size: 14px;
     padding: 2px 3px;
@@ -1945,7 +1945,7 @@ textarea {
 }
 
 .shopper-info .btn-primary {
-    background: #5555AF;
+    background: #5454AE;
     border: 0 none;
     border-radius: 0;
     margin-right: 15px;
@@ -2024,7 +2024,7 @@ textarea {
 }
 
 #cart_items .cart_info .table.table-condensed.total-result span {
-    color: #5555AF;
+    color: #5454AE;
     font-weight: 700;
     font-size: 16px
 }
@@ -2081,7 +2081,7 @@ textarea {
 }
 
 .blog-post-area .post-meta ul li i {
-    background: #5555AF;
+    background: #5454AE;
     color: #FFFFFF;
     margin-left: -4px;
     margin-right: 7px;
@@ -2094,7 +2094,7 @@ textarea {
     position: absolute;
     width: auto;
     height: auto;
-    border-color: transparent transparent transparent #5555AF;
+    border-color: transparent transparent transparent #5454AE;
     border-width: 4px;
     border-style: solid;
     top: 6px;
@@ -2103,7 +2103,7 @@ textarea {
 
 .blog-post-area .post-meta ul span {
     float: right;
-    color: #5555AF
+    color: #5454AE
 }
 
 .post-meta span {
@@ -2111,11 +2111,11 @@ textarea {
 }
 
 .post-meta span i {
-    color: #5555AF
+    color: #5454AE
 }
 
 .blog-post-area .single-blog-post .btn-primary {
-    background: #5555AF;
+    background: #5454AE;
     border: medium none;
     border-radius: 0;
     color: #FFFFFF;
@@ -2138,7 +2138,7 @@ textarea {
 
 .pagination-area .pagination li a:hover,
 .pagination-area .pagination li .active {
-    background: #5555AF;
+    background: #5454AE;
     color: #fff
 }
 
@@ -2164,7 +2164,7 @@ textarea {
 }
 
 .pager-area .pager li a:hover {
-    background: #5555AF;
+    background: #5454AE;
     color: #fff
 }
 
@@ -2199,7 +2199,7 @@ textarea {
 
 .rating-area .ratings .color,
 .rating-area .color {
-    color: #5555AF
+    color: #5454AE
 }
 
 .rating-area .tag {
@@ -2283,12 +2283,12 @@ textarea {
 
 .blog-socials ul li a:hover {
     color: #fff;
-    background: #5555AF
+    background: #5454AE
 }
 
 .media-list .btn-primary,
 .commnets .btn-primary {
-    background: #5555AF;
+    background: #5454AE;
     border: 0 none;
     border-radius: 0;
     color: #FFFFFF;
@@ -2343,7 +2343,7 @@ textarea {
 }
 
 .sinlge-post-meta li i {
-    background: #5555AF;
+    background: #5454AE;
     color: #FFFFFF;
     margin-right: 10px;
     padding: 8px 10px;
@@ -2369,7 +2369,7 @@ textarea {
 }
 
 .replay-box label {
-    background: #5555AF;
+    background: #5454AE;
     color: #FFFFFF;
     margin-bottom: 15px;
     padding: 3px 15px;
@@ -2378,7 +2378,7 @@ textarea {
 }
 
 .replay-box span {
-    color: #5555AF;
+    color: #5454AE;
     float: right;
     font-weight: 700;
     margin-top: 21px;
@@ -2395,7 +2395,7 @@ textarea {
 
 .replay-box form input:hover,
 .text-area textarea:hover {
-    border: 1px solid #5555AF;
+    border: 1px solid #5454AE;
 }
 
 .text-area {
@@ -2408,7 +2408,7 @@ textarea {
 }
 
 .btn.btn-primary {
-    background: #5555AF;
+    background: #5454AE;
     border: 0 none;
     border-radius: 0;
     margin-top: 16px;
@@ -2425,7 +2425,7 @@ textarea {
     height: auto;
     border-style: solid;
     border-width: 8px;
-    border-color: #5555AF transparent transparent transparent;
+    border-color: #5454AE transparent transparent transparent;
     top: 25px;
     left: 5px
 }
@@ -2532,7 +2532,7 @@ textarea {
 }
 
 .contact-info .social-networks ul li a:hover {
-    color: #5555AF;
+    color: #5454AE;
 }
 
 .page-item{

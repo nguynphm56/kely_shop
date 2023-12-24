@@ -44,10 +44,9 @@
               <div>
                 <input value="<?=$data["pass"]?>" type="password" class="form-control" placeholder="Mật Khẩu" name="pass" required="" />
               </div>
-              <div class="container-login">
-                <button class="btn  btn-primary" name="login">Đăng Nhập</button>
-                <label class="save_account" for="">Lưu Tài Khoản</label>
-                <input  type="checkbox" id="save_account">
+              <div style="display: flex;flex-direction: column;align-items: center;" class="container-login">
+                <label class="save_account" for="">Lưu Tài Khoản<input  type="checkbox" id="save_account"></label>
+                <button style="background-color: #5454AE;border-radius: 30px;border:none;width: 170px;height: 40px;" class="btn  btn-primary" name="login">Đăng Nhập</button>
               </div>
 
               <div class="clearfix"></div>

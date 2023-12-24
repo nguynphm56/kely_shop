@@ -28,9 +28,9 @@
 <body>
 	<div class="container text-center">
 		<div class="content-404">
-			<img style="width: 200px; height:200px;object-fit:cover; margin-top: 5rem" src="public/images/logo/kely_logo.svg" class="img-responsive" alt="" />
-			<h1><b style="color:#5555AF">Không tìm thấy trang này</h1>
-			<h2><a style="border-radius:25px" href="<?=base?>">Quay lại trang chủ</a></h2>
+			<img style="width: 200px; height:200px; margin-top: 5rem" src="public/images/logo/kely_logo_no_bg_2.svg" class="img-responsive" alt="" />
+			<h1><b style="color:#5454AE">Không tìm thấy trang này</h1>
+			<h2><a style="border-radius:30px" href="<?=base?>">Quay lại trang chủ</a></h2>
 		</div>
 	</div>
 

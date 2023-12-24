@@ -18,7 +18,7 @@
 							<h2>Về Chúng Tôi</h2>
 							<ul class="nav nav-pills nav-stacked">
 								<li><a href="#">Giới Thiệu</a></li>
-								<li><a href="#">Điều Khoản Sử Dụng</a></li>
+								<li><a href="<?=base?>aboutus">Về chúng tôi</a></li>
 								<li><a href="#">Chính Sách Bảo Mật</a></li>
 								<li><a href="#">Tuyển Dụng</a></li>
 							</ul>

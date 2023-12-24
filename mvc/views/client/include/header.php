@@ -28,7 +28,7 @@
 				<div class="row">
 					<div class="col-md-2 clearfix" >
 						<div class="logo pull-left">
-							<a  href="<?=base?>"><img class="logo-image" style="object-fit:cover; object-fit:cover;width: 120px;height: 50px;" src="public/images/logo/kely_logo_no_bg.svg" alt="" /></a>
+							<a  href="<?=base?>"><img class="logo-image" style="object-fit:cover; object-fit:cover;width: 120px;height: 50px;" src="public/images/logo/kely_logo_no_bg_2.svg" alt="" /></a>
 						</div>
 					</div>
 					<div class="col-md-4 clearfix mob-ipa">
